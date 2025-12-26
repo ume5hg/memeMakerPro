@@ -27,7 +27,7 @@ https://mememakerpro.netlify.app
 - html2canvas (for image download)
 
 ## Project Structure
-
+```
 src/
 ├── assets/
 │   └── disasterGirl.jpg
