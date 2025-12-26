@@ -1,0 +1,12 @@
+@media screen and (max-width:600px){
+    .input-row{
+        flex-direction:column;
+        row-gap:1rem;
+    }
+}
+@media (min-width:800px){
+    #root{
+        max-width:800px;
+        margin:0 auto;
+    }
+}
